@@ -90,3 +90,6 @@ public
 
 # VSCode settings folder
 .vscode/
+
+# Ignore Java build output
+target/
